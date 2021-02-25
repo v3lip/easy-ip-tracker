@@ -47,8 +47,6 @@ logIp();
         } );
 
     </script>
-
-    <iframe src="filtered-1AB4AC3F-E800-4876-BF30-0B7C30EC3AF9.MP4" id="iFrame1"></iframe>
     </center>
 
 
